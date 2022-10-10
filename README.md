@@ -14,4 +14,5 @@ Paste the token (x) into this command, where x is a string
 client.run(x)
 
 Preview of help and search clan command. 
+
 <img width="601" alt="Screen Shot 2022-10-10 at 12 14 58 AM" src="https://user-images.githubusercontent.com/57726987/194814898-9416b524-acb6-49cf-a61e-ccc518589880.png">
